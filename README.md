@@ -1,2 +1,2 @@
 # simpleCalculator
-Simple Calculator writing in HTML and JavaScript
+Simple Calculator written in HTML and JavaScript
